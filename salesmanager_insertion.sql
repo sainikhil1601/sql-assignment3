@@ -1,0 +1,2 @@
+INSERT INTO sales_manager (sales_manager_id, name, city)
+VALUES(400, 'siva', 'ramesampeta'),(401, 'yashwanth', 'pithapuram'),(400, 'krishna', 'peddapuram'),(400, 'srinivas', 'tuni'),(401, 'venkatesh', 'annavaram')
